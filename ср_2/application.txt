@@ -1,0 +1,2 @@
+Я хочу создать онлайн магазин электроники
+Сущности: User, Admin, Category, Product, Cart
